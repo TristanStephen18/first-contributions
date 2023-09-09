@@ -126,7 +126,6 @@ Mac McHam
 -egulbinado
 -psuuc-acbascos
 -psuuc-jbgarcia
--michdborja-Mdeborja
 -psuuc-cvdrazo
 -psuuc-larajean
 -psuuc-rscabico
@@ -136,6 +135,7 @@ Mac McHam
 -psuuc-fernandez
 -psuuc-jcsbayan
 -psuuc-vmgabriel
+-psuuc-tristanrasco
 - [psuuc-jepllamas]
 - PSUUC-IGappe (https://github.com/MrNewtothis)
 - [Isabell Luo] (https://github.com/117Isabell)
